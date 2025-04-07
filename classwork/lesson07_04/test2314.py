@@ -74,3 +74,5 @@ if __name__ == "__main__":
         tree.insert(lst[i])
 
     print(tree.maximum())
+
+    
